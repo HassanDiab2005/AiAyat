@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3 Pro Chat",
+  "description": "An unlimited, high-performance chat interface powered by Google's Gemini 3 Pro model.",
+  "requestFramePermissions": []
+}
